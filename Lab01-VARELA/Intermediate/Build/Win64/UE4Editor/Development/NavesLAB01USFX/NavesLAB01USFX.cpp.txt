@@ -1,0 +1,2 @@
+D:\PROYECTOS\Pruebas\LABS\villa\Tarea-1-Villarroel-Roncal-Sebastian-Rodolfo-master\Intermediate\Build\Win64\UE4Editor\Development\NavesLAB01USFX\Definitions.NavesLAB01USFX.h
+D:\PROYECTOS\Pruebas\LABS\villa\Tarea-1-Villarroel-Roncal-Sebastian-Rodolfo-master\Source\NavesLAB01USFX\NavesLAB01USFX.h
